@@ -1,0 +1,8 @@
+Método de avaliação: 80% prova, 20% trabalho
+Linguagem utilizada: C++
+Linguagem de alto nivel, que necessita ser compilada para serem executadas, utilizando o compilador g++
+g++ -std=c++20 meu_programa.cpp -o meu_programa
+diferente de C, C++ tem o tipo bool e double, bool sendo valor booleano, e double é um flutuante com muito mais casas
+
+Classe tem dados e metodos (função dentro da classe) -> chamado de encapsulamento
+
